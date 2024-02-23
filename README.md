@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 José Ángel Ángeles Santiago, UJA
-Prueba de cambio en vsCode
 
 
 
